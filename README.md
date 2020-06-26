@@ -8,4 +8,4 @@ In this sample, an area of interest (roughly the country of Spain) is rendered w
 
 Note that even in the case of areas covered by solid tiles, the labels are still visible for a split second when zooming in and out, while the tiles are being fetched (see animation below).
 
-![mapkit_tiles_seethrough_labels](/Volumes/DEV/dev/iOS/my projects/MapKitLabelsFeedbackSampleProject/MapKitLabelsFeedbackSampleProject/mapkit_tiles_seethrough_labels.gif)
+![mapkit_tiles_seethrough_labels](./mapkit_tiles_seethrough_labels.gif)
